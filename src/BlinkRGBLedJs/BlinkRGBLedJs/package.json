@@ -1,0 +1,15 @@
+{
+  "name": "blink-rgbled-js",
+  "version": "0.0.0",
+  "description": "BlinkRGBLedJs",
+  "main": "server.js",
+  "author": {
+    "name": "ppopadiyn-pc",
+    "email": ""
+  },
+  "target_arch": "ARM",
+  "platform": "uwp",
+  "scripts": {
+    "start": "--debug server.js"
+  }
+}
